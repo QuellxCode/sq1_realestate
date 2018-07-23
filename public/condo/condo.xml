@@ -1,0 +1,2048 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE RETS SYSTEM "RETS-20041001.dtd">
+<RETS ReplyCode="0" ReplyText="">
+<REData>
+<REProperties>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4047753</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1665 The Collegeway St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>1408</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4106083</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1665 The Collegeway Rd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>2005</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4111315</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>45 Kingsbridge Garden Circ</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>3000-3249</ApproxSquareFootage>
+			<AptUnit>Gph1</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4116439</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>35 Kingsbridge Garden Circ</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>2000-2249</ApproxSquareFootage>
+			<AptUnit>Gph5</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4117139</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1 Hurontario St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>2250-2499</ApproxSquareFootage>
+			<AptUnit>2002</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4123632</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>965 Inverhouse Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>31-50</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>1007</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4124887</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>7204 Triumph Lane</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit>null</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>W/O</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4125858</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3650 Kaneff Cres</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>31-50</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit>2401</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4132402</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4235 Sherwoodtowne Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>1605</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Encl</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4134246</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4235 Sherwoodtowne Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit>1110</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4135157</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>110 Little Creek Rd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>2000-2249</ApproxSquareFootage>
+			<AptUnit>6</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4136176</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>223 Webb Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge></ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>3312</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>None</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4136732</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>33 Elm Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>2602</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4137753</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4135 Shipp Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>2750-2999</ApproxSquareFootage>
+			<AptUnit>15</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>4</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4138393</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>6860 Meadowvale Town Cent Circ</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>8</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4139924</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>510 Curran Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>New</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>4306</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>Apartment</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4141118</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>220 Forum Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>Ph 203</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4142309</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>2001 Bonnymede Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>31-50</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>86</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4146528</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>2560 Eglinton Ave W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>2311</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4146639</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4065 Brickstone Mews</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>Th5</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>Part Bsmt</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4146664</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4080 Parkside Village Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit>Th2</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4146687</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4065 Brickstone Mews</Address>
+			<AirConditioning>None</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>1806</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4148193</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>525 Novo Star Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>11-15</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>60</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Full</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4148522</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3650 Kaneff Cres</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit>2101</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4148967</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>339 Rathburn Rd W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>106</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4149140</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>55 Strathaven Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>1502</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4150476</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>388 Prince Of Wales Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>1911</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4150616</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1009 Lorne Park Rd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>2250-2499</ApproxSquareFootage>
+			<AptUnit>5</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>Fin W/O</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4151619</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3605 Kariya Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>812</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4154954</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>700 Constellation Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>607</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4155226</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3515 Kariya Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge></ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>2910</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4155243</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3939 Duke Of York Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>306</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4156362</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4850 Glen Erin Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge></ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>601</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4157087</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>666 Constellation Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>51</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4157111</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4011 Brickstone  Mews</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>3404</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4157797</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>155 Hillcrest Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>406</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4157879</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4099 Brickstone Mews</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>3505</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>Apartment</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4158118</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>35 Kingsbridge Garden Circ N</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>11-15</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>1807</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4158132</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>50 Mississauga Valley Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>711</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4159401</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1 Hurontario St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>806</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4159674</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>429 Ladycroft Terr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit></AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Jlte</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4159899</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>55 Strathaven Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>1013</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4159920</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3250 The Credit Woodlands Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>16</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4161157</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1 Hurontario St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>906</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4161279</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>510 Curran Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge></ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>1505</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4161302</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4070 Confederation Pkwy</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>3409</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4161573</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1055 Southdown Rd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>1505</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4161920</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>720 Neighbourhood Circ</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>11-15</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>#3</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4161936</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4011 Brickstone  Mews</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>3206</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4162196</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>65 Port St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>2000-2249</ApproxSquareFootage>
+			<AptUnit>313</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4162401</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1055 Shawnmarr Rd E</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>22</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Part Fin</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4162517</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>50 Mississauga Valley Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>1111</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4162684</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3975 Grand Park Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>New</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>4705</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4162775</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4011 Brickstone Mews</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>3801</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4162985</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>50 Absolute Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>803</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4163355</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>5255 Palmetto Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>90</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4163582</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>339 Rathburn Rd W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>217</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4163674</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>220 Burnhamthorpe Rd W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>913</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4163960</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>7360 Zinnia Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>229</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>Full</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164018</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>525 Novo Star Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>174</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164178</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>80 Absolute Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>2808</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164377</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>7405 Goreway Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>404</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164415</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>80 Acorn Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>99</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Fin W/O</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164599</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4080 Living Arts Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>11-15</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>803</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164603</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>2929 Aquitaine Ave S</Address>
+			<AirConditioning>Window Unit</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>412</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164617</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3975 Grand Park Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>706</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164638</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>145 Hillcrest Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>1605</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164639</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>50 Absolute Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>3801</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4164661</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>5205 Glen Erin Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>1200-1399</ApproxSquareFootage>
+			<AptUnit>24</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Fin W/O</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165043</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>5050 Intrepid Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>6-10</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>86</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165053</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4090 Living Arts Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>2505</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165640</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>80 Absolute Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>2006</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165845</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>250 Webb Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>806</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165846</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3939 Duke Of York Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>11-15</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>2403</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165910</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3046 Eglinton Ave W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>11-15</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>56</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4165952</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>310 Burnhamthorpe Rd W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge></ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>407</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4166189</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1 Elm Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>2809</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4166603</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4633 Glen Erin Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>New</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>1504</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4166666</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>55 Eglinton Ave W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>New</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>2108</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4166711</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>339 Rathburn Rd W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>319</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4166965</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3939 Duke Of York Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>2207</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167121</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4033 Hurontario St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>411</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167184</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>510 Curran Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>3706</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167234</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3504 Hurontario St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>503</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167240</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>225 Webb Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>1001</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167268</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>3700 Kaneff Cres</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>612</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167332</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4065 Brickstone Mews</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>501</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167505</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4033 Hurontario St</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>418</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167876</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>50 Absolute  Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>4601</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167887</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>285 Enfield Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>1402</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Encl</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167911</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>360 Square One Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>800-899</ApproxSquareFootage>
+			<AptUnit>2102</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167957</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1124 Lower Village Cres</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>1600-1799</ApproxSquareFootage>
+			<AptUnit>null</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>Finished</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4167958</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>4185 Shipp Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>1719</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168072</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>2585 Erin Centre  Blvd</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>1000-1199</ApproxSquareFootage>
+			<AptUnit>207</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Terr</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168138</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>510 Curran Pl</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>4010</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168248</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>2560 Eglinton Ave W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>303</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168342</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>5230 Glen Erin Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>Y</AllInclusive>
+			<ApproxAge>16-30</ApproxAge>
+			<ApproxSquareFootage>1400-1599</ApproxSquareFootage>
+			<AptUnit>98</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>Fin W/O</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>3</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168391</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>1 Elm Dr</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>900-999</ApproxSquareFootage>
+			<AptUnit>2901</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168484</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>310 Burnhamthorpe Rd W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>1712</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Encl</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>2</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168621</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>50 Absolute Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge></ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>1306</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4168946</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>75 Eglinton Ave W</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>0-5</ApproxAge>
+			<ApproxSquareFootage>600-699</ApproxSquareFootage>
+			<AptUnit>1203</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>Open</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+	<CondoProperty>
+		<Listing>
+			<MLS>W4169085</MLS>
+			<SharesPer>null</SharesPer>
+			<Address>145 Hillcrest Ave</Address>
+			<AirConditioning>Central Air</AirConditioning>
+			<AllInclusive>N</AllInclusive>
+			<ApproxAge>null</ApproxAge>
+			<ApproxSquareFootage>700-799</ApproxSquareFootage>
+			<AptUnit>1016</AptUnit>
+			<Area>Peel</Area>
+			<AreaCode>05</AreaCode>
+			<Assessment>null</Assessment>
+			<AssessmentYear>null</AssessmentYear>
+			<Balcony>None</Balcony>
+			<Basement1>None</Basement1>
+			<Basement2>null</Basement2>
+			<Bedrooms>1</Bedrooms>
+		</Listing>
+	</CondoProperty>
+</REProperties>
+</REData>
+</RETS>
